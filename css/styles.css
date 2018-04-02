@@ -257,7 +257,7 @@ h1, .score-panel {
 
 
 /*start media query*/
-@media (max-width:450px)
+@media (max-width: 320px) 
 {
 	.deck 
     {
@@ -271,7 +271,7 @@ h1, .score-panel {
 	}
 }
 
-@media (min-width: 800px)
+@media (min-width: 768px)
 {
 	.container 
     {
